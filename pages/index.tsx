@@ -115,7 +115,7 @@ const Home: NextPage = () => {
           rel="noopener noreferrer"
         >
           <Github />
-          <p>Star on GitHub</p>
+          <p>更多免费AI工具</p>
         </a>
 
 
@@ -203,7 +203,7 @@ const Home: NextPage = () => {
 
 
             <br/>
-            <p className="text-slate-500" style={{textAlign: "center"}}>有任何问题请联系我的邮箱: guaguaguaxia@Gmail.com</p>
+            <p className="text-slate-500" style={{textAlign: "center"}}>有任何问题请联系我WX: lgblgc</p>
 
           </div>
         </div>
